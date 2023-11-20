@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1635040758 source:/home/pi/Desktop/CPP_Projects/gpio_raspberry_pi/main.cpp
+	<cstdlib>
+	<iostream>
+	<wiringPi.h>
+
+1635035208 source:/home/pi/Desktop/asd.cpp
+	<cstdlib>
+	<iostream>
+	<wiringPi.h>
+
